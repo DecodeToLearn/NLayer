@@ -1,0 +1,12 @@
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/bin/Debug/net7.0/NLayer.Caching.deps.json
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/bin/Debug/net7.0/NLayer.Caching.dll
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/bin/Debug/net7.0/NLayer.Caching.pdb
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.csproj.AssemblyReference.cache
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.AssemblyInfoInputs.cache
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.AssemblyInfo.cs
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.dll
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/refint/NLayer.Caching.dll
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/NLayer.Caching.pdb
+/Users/yusufsengul/Projects/NLayerUdemyApp/NLayer.Caching/obj/Debug/net7.0/ref/NLayer.Caching.dll
