@@ -16,7 +16,7 @@ namespace NLayer.Core.Repositories
         Task AddAsync(T entity);
 		Task AddRangeAsync(IEnumerable<T> entites);
 
-		//Update function don't have a Async attribute because Entity Framewort only change entity state to modify in memory and this operetion not very long so don't need to Async method
+		//Update function don't have a Async attribute because Entity Framework only change entity state to modify in memory and this operetion not very long so don't need to Async method
 		void Update(T entity);
 
         //Remove function don't have a Async attribute because Entity Framewort only change entity state to modify in memory and this operetion not very long so don't need to Async method
